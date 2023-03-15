@@ -7,7 +7,7 @@ public class Login {
 	public static void main(String[] args) {
 		
 		boolean loggedIn = false;
-		Scanner sc= new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		
 		while (!loggedIn) {
 			System.out.print("Enter username: ");   
